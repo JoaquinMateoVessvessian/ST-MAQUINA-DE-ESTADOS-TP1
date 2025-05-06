@@ -1,3 +1,5 @@
+//VESSVESSIAN, PONCZYK, JAMUI, TOVBEIN
+
 #include <DHT.h>
 #include <DHT_U.h>
 
